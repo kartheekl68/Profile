@@ -64,7 +64,7 @@ function Experience() {
                                     </li>
                                     <li>
                                         <p>
-                                        Developed an Internal Application GUI using Angular 2+, Bootstrap, HTML5, CSS3 as a part of current project.
+                                        Developed an Internal Application GUI using Angular 2+, Bootstrap, HTML5, CSS3.
                                             </p>
                                     </li>
                                     <li>
