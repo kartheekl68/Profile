@@ -59,7 +59,7 @@ function Experience() {
                                 <ul className="exp-cont-list">
                                     <li>
                                         <p>
-                                            Designing and developing full-stack applications across multiple platforms using modern industry-adopted languages and frameworks.
+                                            Designing and Developing full-stack applications across multiple platforms using modern industry-adopted languages and frameworks.
                                             </p>
                                     </li>
                                     <li>
